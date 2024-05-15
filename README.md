@@ -1,16 +1,13 @@
-### Hi there 👋
+### olaá 👋
 
 <!--
-**carolcb2/carolcb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**carolcb2/carolcb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+--> BOAS VINDAS AO MEU PERFIL
+    Meu nome é Ana Carolina
+  * Estou estudando no ALURA
+  * Estou me desenvolvendo na linguagem JavaScrips
+  * Utilizo esse espaço  para minha organização e compartilhamento
+    dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    PODEM ENTRAR EM CONTATO COMIGO ATRAVEZ
+    CF104255@GMAIL.COM
